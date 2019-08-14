@@ -5,7 +5,7 @@
     <ul>
       <li>
         <a
-          href="https://vuejs.org"
+          href="https://www.taobao.com/"
           target="_blank"
         >
           Core Docs
